@@ -1,7 +1,7 @@
 import pandas as pd
 import sklearn
 
-df = pd.read_csv('regresion_data.csv')
+df = pd.read_csv('regression_data.csv',delimeter =";")
 df.head()
 
 # analisis del csv
