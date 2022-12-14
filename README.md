@@ -9,4 +9,4 @@ Para este proyecto hemos realizado varios modelos de regresion (lineal, logaritm
 ### Integrantes
 
 - Jose Zazo
-- Ignacio Guerrero
+- Ignacio Pedrero
