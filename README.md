@@ -4,7 +4,7 @@ El enlace al repositorio de GitHub de este proyecto es el siguiente: [GitHub](ht
 
 ### Resumen
 
-Para este proyecto hemos realizado varios modelos de regresion (lineal, logaritmica, etc...) con el fin de poder predecir el precio de cualquier casa en funcion de sus caracteristicas.
+Para este proyecto hemos realizado varios modelos de regresion (lineal, logaritmica, neperiana y exponencial) con el fin de poder predecir el precio de cualquier casa en funcion de sus caracteristicas.
 
 ### Integrantes
 
